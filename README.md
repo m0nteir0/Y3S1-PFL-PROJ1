@@ -1,7 +1,8 @@
 # SixMaking
-## Grupo: SixMaking_7
 
 Nota: 19.43/20.0
+
+## Grupo: SixMaking_7
 
 |Nome | Contribuição |
 |---------------------------------------------|-----|
